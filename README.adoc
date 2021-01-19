@@ -61,7 +61,7 @@ ReactJS
 Spring Boot
 PostgreSQL
 ----
-L'interface d'administration du projet se fait au travers d'une application ReactJS (https://github.com/okina-transport/ninkasi[_Ninkasi_].
+L'interface d'administration du projet se fait au travers d'une application ReactJS (https://github.com/okina-transport/ninkasi[_Ninkasi_]).
 Cette application utilise les différentes APIs des backends disponibles pour permettre l'administration du projet.
 La gestion des différents producteurs de données est centralisée dans l'application dédiée https://github.com/okina-transport/baba[_Baba_]
 
@@ -258,4 +258,4 @@ Dans le système, chaque organisation se verra attribuer un _Codespace_. Le _Cod
 
 == Liens
 
-Plus d'information concernant le modèle de données Netex associé à NeTEx est disponible https://enturas.atlassian.net/wiki/spaces/PUBLIC/pages/728662188/Profile+documents[sur le site d'Entur]
+Plus d'information
